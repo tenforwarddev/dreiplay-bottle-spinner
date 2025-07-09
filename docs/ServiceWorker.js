@@ -1,9 +1,9 @@
 const cacheName = "Ten Forward-dreiplay studio bottle spinner-1.1.0";
 const contentToCache = [
-    "Build/dreiplayBottleSpinBuild_08.07.2025.loader.js",
-    "Build/dreiplayBottleSpinBuild_08.07.2025.framework.js",
-    "Build/dreiplayBottleSpinBuild_08.07.2025.data",
-    "Build/dreiplayBottleSpinBuild_08.07.2025.wasm",
+    "Build/dreiplayBottleSpinBuild_09.07.2025.loader.js",
+    "Build/dreiplayBottleSpinBuild_09.07.2025.framework.js",
+    "Build/dreiplayBottleSpinBuild_09.07.2025.data",
+    "Build/dreiplayBottleSpinBuild_09.07.2025.wasm",
     "TemplateData/style.css"
 
 ];
